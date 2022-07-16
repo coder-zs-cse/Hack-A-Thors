@@ -1,6 +1,8 @@
 # Hack-A-Thors
 Problem Statement:-
+
 Part 1 - Many students who are willing to participate in hackathons despite having the tech stack skills and knowledge of theme/ domain, are unable to bring up innovative project idea topics to solve some problems.
+
 Part 2 - Any student who wants to explore a particular CS domain/ techstack would love to see what latest problems solved/ projects build in this domain by students around the country.
 
 Solution:-
