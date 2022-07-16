@@ -12,20 +12,18 @@ A website which lists out hackathon winning/ starred projects from hackathons ha
 In this section, top 10 hackathon winning/starred projects of each month will be listed.
 
 -> Top 10 projects - domain wise
-In this section, every domain like WD, AD, ML, Blockchain, Web3, etc. will have corresponding top 10 list of hackathon winning/ starred projects, month wise.
+In this section, every domain like WD, AD, ML, Blockchain, Web3, etc. will have corresponding top 10 list of hackathon winning/ starred projects.
 
 -> Top 10 projects - theme wise
-In this section, every theme like Healthcare, Education, Environment, Finance, etc. will have corresponding top 10 list of hackathon winning/ starred projects, month wise.
+In this section, every theme like Healthcare, Education, Environment, Finance, etc. will have corresponding top 10 list of hackathon winning/ starred projects.
 
-Every project will have corresponding information:-
+Every project card will have corresponding information:-
 
 ->Problem statement of the project
 
 ->Solution presented 
 
 ->Techstacks used in the project
-
-->Further improvements/ potential of the project
 
 ->About the hackathon and developers of the project.
 
